@@ -7,7 +7,13 @@ CSS
 JavaScript
 JQuery
 ```
-To start the project. first perform the
+To start the project:
+
+First you should create a directory which will contain the folder you want to store the contents of the project, i.e.
+```
+mkdir repos
+```
+Then perform the
 ```
 git clone
 ```
