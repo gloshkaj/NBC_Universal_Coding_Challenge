@@ -24,6 +24,8 @@ Open the folder and right click the
 TVpackage.html
 ``` 
 file, and select "Open with Chrome" to run the HTML application.
+
+The following are the external CSS and JS files that were used.
 ```
 TVPackage.css
 TVpackage.js
