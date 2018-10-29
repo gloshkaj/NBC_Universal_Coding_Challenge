@@ -29,7 +29,7 @@ correctly and got the application to work, and I also included CSS animations to
 the recommended packages. <br/>
 Some things that I wanted to implement in the styling that I got to work correctly were:
 ```
-I was able to disable 'World' if the user clicked on any other specified plan
+I was able to disable 'World' if the user selected any other specified plan
 I was able to disable all phone plans if the user did not want to use a phone service
 ```
 Some things that could have been improved were:
