@@ -44,6 +44,6 @@ Some things that could have been improved were:
 ```
 Although the functionality and calculations work correctly, I felt there was a more efficient way to calculate the amount of data needed if the user had more than 2 devices.
 The additional data could have been calculated as 'twoDeviceData + devices + simultaneousDevices - 4' when the user had more than two devices.
-This would have removed all the if statements that making my code too long.
+This would have removed all the if statements that made my code too long.
 Although it was not required, I could have used AngularJS or Bootstrap (which I have limited experience with) to make the application mobile friendly.
 ```
