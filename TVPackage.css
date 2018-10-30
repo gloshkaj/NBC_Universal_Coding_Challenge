@@ -19,14 +19,15 @@ button {
     size: 4px;
 }
 #reset {
-    margin-top: 24px;
+    margin-top: 27px;
 }
 #submitChoices {
-    margin-top: 216px;
+    margin-top: 108px;
 }
 /* Results go in this div. This div is also animated with the answer. */
 #package {
-    margin-top: 72px;
+    margin-top: 63px;
+    font-size: 14px;
 }
 #package, h1, #submitChoices, #reset, #TVchoices {
     -webkit-animation: fadein 1s;
