@@ -9,7 +9,7 @@ JQuery
 ```
 To start the project:
 
-First you should create a directory which will contain the folder you want to store the contents of the project, i.e.
+First you should open command prompt or git bash (if git is installed on your machine) and create a directory which will contain the folder you want to store the contents of the project, i.e.
 ```
 mkdir repos
 ```
